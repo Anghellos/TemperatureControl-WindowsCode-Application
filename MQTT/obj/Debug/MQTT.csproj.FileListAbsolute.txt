@@ -1,0 +1,12 @@
+C:\Users\aggel\Documents\_Programming\C#\TempControl\MQTT\obj\Debug\MQTT.csprojResolveAssemblyReference.cache
+C:\Users\aggel\Documents\_Programming\C#\TempControl\MQTT\obj\Debug\MQTT.csproj.CoreCompileInputs.cache
+C:\Users\aggel\Documents\_Programming\C#\TempControl\MQTT\bin\Debug\MQTT.dll
+C:\Users\aggel\Documents\_Programming\C#\TempControl\MQTT\bin\Debug\MQTT.pdb
+C:\Users\aggel\Documents\_Programming\C#\TempControl\MQTT\obj\Debug\MQTT.dll
+C:\Users\aggel\Documents\_Programming\C#\TempControl\MQTT\obj\Debug\MQTT.pdb
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\MQTT\bin\Debug\MQTT.dll
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\MQTT\bin\Debug\MQTT.pdb
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\MQTT\obj\Debug\MQTT.csprojResolveAssemblyReference.cache
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\MQTT\obj\Debug\MQTT.csproj.CoreCompileInputs.cache
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\MQTT\obj\Debug\MQTT.dll
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\MQTT\obj\Debug\MQTT.pdb

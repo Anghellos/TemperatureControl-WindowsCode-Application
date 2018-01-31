@@ -1,0 +1,14 @@
+C:\Users\aggel\Documents\_Programming\C#\TempControl\AzureConnection\obj\Debug\AzureConnection.csprojResolveAssemblyReference.cache
+C:\Users\aggel\Documents\_Programming\C#\TempControl\AzureConnection\obj\Debug\AzureConnection.csproj.CoreCompileInputs.cache
+C:\Users\aggel\Documents\_Programming\C#\TempControl\AzureConnection\bin\Debug\AzureConnection.dll
+C:\Users\aggel\Documents\_Programming\C#\TempControl\AzureConnection\bin\Debug\AzureConnection.pdb
+C:\Users\aggel\Documents\_Programming\C#\TempControl\AzureConnection\obj\Debug\AzureConnection.dll
+C:\Users\aggel\Documents\_Programming\C#\TempControl\AzureConnection\obj\Debug\AzureConnection.pdb
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\AzureConnection\bin\Debug\AzureConnection.dll
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\AzureConnection\bin\Debug\AzureConnection.pdb
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\AzureConnection\obj\Debug\AzureConnection.csprojResolveAssemblyReference.cache
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\AzureConnection\obj\Debug\AzureConnection.csproj.CoreCompileInputs.cache
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\AzureConnection\obj\Debug\AzureConnection.dll
+C:\Users\aggel\OneDrive\Programming\ProjectAltran\Code\Desktop_App\TempControl\AzureConnection\obj\Debug\AzureConnection.pdb
+C:\Users\aggel\Documents\_Programming\C#\TempControl\AzureConnection\bin\Debug\Domain.dll
+C:\Users\aggel\Documents\_Programming\C#\TempControl\AzureConnection\bin\Debug\Domain.pdb

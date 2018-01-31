@@ -1,0 +1,1 @@
+Insert Into dbo.Users (Priority, [Name], OptimTemp) Values (@Priority, @Name, @OptimTemp);

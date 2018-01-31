@@ -1,0 +1,6 @@
+C:\Users\aggel\Documents\_Programming\C#\TempControl\Domain\bin\Debug\Domain.dll
+C:\Users\aggel\Documents\_Programming\C#\TempControl\Domain\bin\Debug\Domain.pdb
+C:\Users\aggel\Documents\_Programming\C#\TempControl\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\aggel\Documents\_Programming\C#\TempControl\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\aggel\Documents\_Programming\C#\TempControl\Domain\obj\Debug\Domain.dll
+C:\Users\aggel\Documents\_Programming\C#\TempControl\Domain\obj\Debug\Domain.pdb

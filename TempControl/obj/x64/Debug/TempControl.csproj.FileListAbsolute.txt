@@ -1,0 +1,16 @@
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\bin\x64\Debug\TempControl.exe.config
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\bin\x64\Debug\TempControl.exe
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\bin\x64\Debug\TempControl.pdb
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\bin\x64\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\bin\x64\Debug\M2Mqtt.Net.dll
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\bin\x64\Debug\M2Mqtt.Net.pdb
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.csprojResolveAssemblyReference.cache
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.Dashboard.resources
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.MainFrm.resources
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.Properties.Resources.resources
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.Settings.resources
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.csproj.GenerateResource.Cache
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.exe.licenses
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.csproj.CoreCompileInputs.cache
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.exe
+C:\Users\aggel\OneDrive\Programming\C#\TempControl\TempControl\obj\x64\Debug\TempControl.pdb

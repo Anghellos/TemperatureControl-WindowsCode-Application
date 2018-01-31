@@ -1,0 +1,1 @@
+Select * From dbo.Users Where (Name = @Name);

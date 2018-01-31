@@ -1,0 +1,6 @@
+server name: agpdb
+server address: agpdb.database.windows.net
+DataBase: TempControl
+Server admin login: aggelos
+password: d%@^pf:6eaE
+client ip adress: 188.24.126.88

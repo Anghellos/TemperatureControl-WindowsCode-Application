@@ -1,0 +1,1 @@
+Update dbo.Users Set [Name] = @Name, OptimTemp = @OptimTemp Where (Priority = @Priority);
